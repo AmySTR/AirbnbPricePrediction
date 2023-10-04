@@ -11,8 +11,11 @@ Jupyter notebook is used to complete this project. <br>
 - load dataset.<br>
 - clean and normalized dataset.<br>
 - train the data with <br>
--   5-fold cross validation technique <br>
--   machine learning techniques: linear regression, bagging regression, neural network, gradient boosting, decision tree regressor, random forest regression and XGBoost. <br>
+  	- 5-fold cross validation technique <br>
+	 - machine learning techniques: linear regression, bagging regression, neural network, gradient boosting, decision tree regressor, random forest regression and XGBoost. <br>
+	- apply feature selection technique on to price prediction model.<br>
+-  compare the model performance. <br>
+
 
 
 
